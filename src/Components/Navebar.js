@@ -17,7 +17,7 @@ const Navebar = () => {
         
         <Link className="nav-link" to='/'>ProductEntry</Link>
         <Link className="nav-link" to='/search'>SearchProduct</Link>
-        <Link className="nav-link disabled" to='view'>ViewAll</Link>
+        <Link className="nav-link" to='/view'>ViewAll</Link>
       </div>
     </div>
   </div>
