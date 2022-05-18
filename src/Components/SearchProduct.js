@@ -1,8 +1,11 @@
 import React from 'react'
+import Navebar from './Navebar'
 
 const SearchProduct = () => {
   return (
-    <div><div classNameName="container">
+    <div>
+        <Navebar/>
+        <div classNameName="container">
     <div classNameName="row">
         <div classNameName="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
             <div classNameName="row g-3">

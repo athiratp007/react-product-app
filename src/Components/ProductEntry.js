@@ -21,7 +21,7 @@ const ProductEntry = () => {
         </div>
         <div className="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
             <label for="" class="form-label">Description</label>
-            <input type="text" className="form-control"/>
+            <textarea name="" id="" cols="30" rows="10" class="form-control">Description</textarea>
         </div>
                 </div>
             </div>
